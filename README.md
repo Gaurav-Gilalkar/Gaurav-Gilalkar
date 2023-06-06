@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaurav-Gilalkar
-- :computer: I work at Qualcomm India Pvt. Ltd. Hyderabad
+- :computer: I work at Teradata India Pvt. Ltd. Hyderabad
 - 👀 I’m interested in AI/ML, data science, programming, gaming
 - 🌱 I’m currently learning PG Diploma in Data Science from IIIT Bengaluru in collaboration with Upgrad
 - 💞️ I’m looking to collaborate on AI/ML, data science, programming
